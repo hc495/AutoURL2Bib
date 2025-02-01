@@ -4,3 +4,5 @@ old/
 *.spec
 dist/
 build/
+input.bib
+output.bib

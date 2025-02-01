@@ -1,7 +1,0 @@
-Replace han2022prototypical to han2023prototypical
-Replace hovy-etal-2001-toward to trec2
-Replace li-roth-2002-learning to trec1
-Replace Malo2014GoodDO to FP
-Replace wei2021finetuned to wei2022finetuned
-Replace zhou2023batch to zhou2024batch
-Replace ECE1 to naeini2015obtaining
