@@ -1,1 +1,6 @@
 _self_use.ipynb
+__pycache__/
+old/
+.spec
+dist/
+build/
